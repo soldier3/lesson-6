@@ -1,0 +1,10 @@
+$font-size: 15px;
+$font-menu: 18px;
+$font-heading: 30px;
+$font-famely: 'Roboto Slab', serif;
+$link-bg: #dd4b2b;
+
+@mixin center(){
+    width: 1200px;
+    margin: 0 auto;
+}
